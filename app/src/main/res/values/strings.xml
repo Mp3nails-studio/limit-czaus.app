@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Limit czasu</string>
+    <string name="notif_channel">Odliczanie limitu</string>
+    <string name="notif_title">Limit czasu</string>
+    <string name="notif_text">Pozostało:</string>
+    <string name="notif_paused_title">Limit czasu: pauza</string>
+    <string name="notif_paused_text">Telefon zablokowany, odliczanie stoi. Pozostało: %1$s</string>
+    <string name="notif_locked_title">Czas minął!</string>
+    <string name="notif_locked_text">Telefon zablokowany. Wpisz hasło, aby odblokować.</string>
+    <string name="lock_title">Czas minął!</string>
+    <string name="lock_subtitle">Wpisz hasło, aby odblokować telefon</string>
+    <string name="lock_slide">Przeciągnij, aby odblokować</string>
+    <string name="lock_back">Wróć</string>
+    <string name="lock_hint">Hasło</string>
+    <string name="lock_button">Odblokuj</string>
+    <string name="lock_wrong">Złe hasło</string></resources>
